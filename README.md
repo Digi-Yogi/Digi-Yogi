@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...APP/ Machine Learning/Deep Learning & AI
 - 🌱 I’m currently learning ...Machine Learning
 - 💞️ I’m looking to collaborate on ...Open projects for learning and Practice
-- 📫 How to reach me ...mail4yogender@gmail.com | 7011104031
+- 📫 How to reach me ...mail4yogender@gmail.com 
 
 <!---
 Digi-Yogi/Digi-Yogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
